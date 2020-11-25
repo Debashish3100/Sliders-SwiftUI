@@ -8,3 +8,7 @@ Custom Sliders designed using SwiftUI
 ## 2. Light Meter
 
 ![](LightMeter.gif)
+
+## 2. Progress Indicator Vertical
+
+![](ProgressIndicatorVertical.gif)
