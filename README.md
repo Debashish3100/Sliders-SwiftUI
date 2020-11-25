@@ -1,5 +1,5 @@
-# Progress-Bar-SwiftUI
-Progress bars of different designs created using swiftUI
+# Sliders-SwiftUI
+Custom Sliders designed using SwiftUI
 
 ## 1. Temperature Meter
 
