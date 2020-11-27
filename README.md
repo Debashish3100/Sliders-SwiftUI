@@ -13,6 +13,6 @@ Custom Sliders designed with SwiftUI
 
 ![](ProgressIndicatorVertical.gif)
 
-## 4. Progress Indicator Vertical
+## 4. Wave Slider
 
 ![](WaveSlider.gif)
