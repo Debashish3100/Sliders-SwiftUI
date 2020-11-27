@@ -1,5 +1,5 @@
 # Sliders-SwiftUI
-Custom Sliders designed using SwiftUI
+Custom Sliders designed with SwiftUI
 
 ## 1. Temperature Meter
 
